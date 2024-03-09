@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ftp.lucaniaescape.com/sitemap.xml
